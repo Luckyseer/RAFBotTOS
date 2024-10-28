@@ -11,7 +11,7 @@ Welcome to our Discord bot! By inviting or using our bot, you agree to the follo
 ## 2. Privacy and Data
 - We collect certain data such as user IDs, usernames, and messages when you interact with the bot.
 - This data is used solely for the operation and improvement of the bot, and is not shared with any third parties.
-- You can request deletion of your data by contacting us at [your-email@example.com].
+- You can request deletion of your data by contacting us at [hameel12@gmail.com].
 
 ## 3. Limitations of Liability
 - We are not liable for any direct, indirect, incidental, special, or consequential damages arising out of or related to your use of the bot.
