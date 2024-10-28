@@ -27,7 +27,7 @@ We do not sell, rent, or share your information with third parties, except in th
 We will retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 ## 5. Your Rights
-You have the right to request access to, correction of, or deletion of the personal information we hold about you. To do so, please contact us at [your-email@example.com].
+You have the right to request access to, correction of, or deletion of the personal information we hold about you. To do so, please contact us at [hameel12@gmail.com].
 
 ## 6. Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website or within the bot.
